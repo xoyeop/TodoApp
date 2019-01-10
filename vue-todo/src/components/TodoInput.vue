@@ -32,7 +32,5 @@ export default {
 input :focus {
     outline: none;
 }
-.inputBox {
-    background: 
-}
+
 </style>
